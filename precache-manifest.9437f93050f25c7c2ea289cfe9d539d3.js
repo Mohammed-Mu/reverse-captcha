@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3dc0f913efec854095955116fdd5264e",
+    "revision": "3084953cb107d0fcab250211d4250531",
     "url": "/reverse-captcha/index.html"
   },
   {
-    "revision": "9399aa16c5cbf7ae0a51",
+    "revision": "fa2fbcf50d4bde9c06db",
     "url": "/reverse-captcha/static/css/main.def4f5c5.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reverse-captcha/static/js/2.401bc94b.chunk.js"
   },
   {
-    "revision": "9399aa16c5cbf7ae0a51",
-    "url": "/reverse-captcha/static/js/main.6fc98c9e.chunk.js"
+    "revision": "fa2fbcf50d4bde9c06db",
+    "url": "/reverse-captcha/static/js/main.c87efa4c.chunk.js"
   },
   {
     "revision": "dbc66f80fa053995397a",
